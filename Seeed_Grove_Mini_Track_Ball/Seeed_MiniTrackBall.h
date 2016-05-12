@@ -31,7 +31,7 @@
 #ifndef _SEEED_MINITRACKBALL_H_
 #define _SEEED_MINITRACKBALL_H_
 
-#include "arduino.h"
+#include "Arduino.h"
 
 /*---------------------------------------------------------------------------------------//
  * define the default data
